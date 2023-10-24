@@ -2,7 +2,7 @@
 
 Official Repo here: https://github.com/krmeet/sound-space-plus (Godot 3)
 
-Nightly Next Gen repo: https://github.com/Rhythia/Rhythia (Godot 4)
+Nightly Next-Gen repo: https://github.com/Rhythia/Rhythia (Godot 4)
 
 # Credits 
   kermeet and Frezby helping with my stupid questions 
