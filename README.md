@@ -4,6 +4,10 @@ Official Repo here: https://github.com/krmeet/sound-space-plus (Godot 3)
 
 Nightly Next Gen repo: https://github.com/Rhythia/Rhythia (Godot 4)
 
+# Credits 
+kermeet and Frezby helping with my stupid questions 
+kermeet and kiwie doing 99.99% of the work 
+
 # Development <a href="dev-title" id="dev"/>
 After cloning the repository download the Discord Game SDK and put the following files into addons/discord_game_sdk:  
 - `discord_game_sdk.dll`  
@@ -20,3 +24,4 @@ When building for MacOS you have to make an exception to allow it to run by runn
  Use the cd path_to_the_app_folder command, e.g. cd ~/Downloads/ if it's in the Downloads folder.
     
  `sudo xattr -cr "/Location/Of/App/appName.app""`
+
