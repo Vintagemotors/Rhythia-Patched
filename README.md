@@ -6,6 +6,7 @@ Nightly Next Gen repo: https://github.com/Rhythia/Rhythia (Godot 4)
 
 # Credits 
   kermeet and Frezby helping with my stupid questions 
+  
   kermeet and kiwie doing 99.99% of the work 
 
 # Development <a href="dev-title" id="dev"/>
