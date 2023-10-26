@@ -21,6 +21,8 @@ After cloning the repository download the Discord Game SDK [Example project that
 - `discord_game_sdk.so` (__rename to `libdiscord_game_sdk.so`__)
 
   [Readme (scroll down)](https://github.com/Vintagemotors/Rhythia-Patched/tree/main/addons/discord_game_sdk#readme)
+
+  I'm actually like 99% sure that libdiscord-game-sdk-godot.dylib, discord-game-sdk-godot.dll, and libdiscord-game-sdk-godot.so are the right files (which are already in the folder) but might be named wrong.
   
   When you inevitably find bugs... if you can fix them please submit a PR Thanks 
 
