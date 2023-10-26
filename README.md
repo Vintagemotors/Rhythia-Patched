@@ -9,7 +9,7 @@ Nightly Next-Gen repo: https://github.com/Rhythia/Rhythia (Godot 4)
   
   kermeet and kiwie doing 99.99% of the work 
 
-  Frezby debugging and sharing some specific findings \
+  Frezby debugging and sharing some specific findings 
   
 Compiled binaries might be here: https://github.com/Vintagemotors/Rhythia-Patched/releases
 # Development <a href="dev-title" id="dev"/>
