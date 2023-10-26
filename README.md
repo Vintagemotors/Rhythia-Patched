@@ -23,7 +23,7 @@ After cloning the repository download the Discord Game SDK and put the following
 
 When building for MacOS you have to make an exception to allow it to run: 
 
- Open Terminal.app (press Cmd + Space and enter Terminal). \
+ Open Terminal.app (press Cmd + Space and enter Terminal).\
  Then run this command 
     
  `sudo xattr -cr "/Location/Of/App/appName.app"`
