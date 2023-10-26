@@ -28,5 +28,5 @@ When building for MacOS you have to make an exception to allow it to run by runn
 
  Use the cd path_to_the_app_folder command, e.g. cd ~/Downloads/ if it's in the Downloads folder.
     
- `sudo xattr -cr "/Location/Of/App/appName.app""`
+ `sudo xattr -cr "/Location/Of/App/appName.app"`
 
