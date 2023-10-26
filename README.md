@@ -15,7 +15,7 @@ Compiled binaries might be here: https://github.com/Vintagemotors/Rhythia-Patche
   
 
 # Development <a href="dev-title" id="dev"/>
-After cloning the repository download the Discord Game SDK and put the following files into addons/discord_game_sdk:  
+After cloning the repository download the Discord Game SDK [Example project that should have the files](https://github.com/samsface/godot-discord-game-sdk/archive/refs/heads/master.zip) and put the following files into addons/discord_game_sdk:  
 - `discord_game_sdk.dll`  
 - `discord_game_sdk.dylib`  
 - `discord_game_sdk.so` (__rename to `libdiscord_game_sdk.so`__)
