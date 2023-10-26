@@ -19,6 +19,8 @@ After cloning the repository download the Discord Game SDK [Example project that
 - `discord_game_sdk.dll`  
 - `discord_game_sdk.dylib`  
 - `discord_game_sdk.so` (__rename to `libdiscord_game_sdk.so`__)
+
+  [Readme](https://github.com/Vintagemotors/Rhythia-Patched/tree/main/addons/discord_game_sdk#readme)
   
   When you inevitably find bugs... if you can fix them please submit a PR Thanks 
 
