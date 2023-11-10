@@ -26,8 +26,9 @@ After cloning the repository download the Discord Game SDK [Example project that
   
   When you inevitably find bugs... if you can fix them please submit a PR Thanks 
 
+# MacOS Quickstart 
 
-When building for MacOS you have to make an exception to allow it to run: 
+After downloading/building for MacOS you have to make an exception to allow it to run: 
 
  Open Terminal.app (press Cmd + Space and enter Terminal).
  
