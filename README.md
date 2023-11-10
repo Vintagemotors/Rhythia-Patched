@@ -4,7 +4,7 @@ Official Repo here: https://github.com/krmeet/sound-space-plus (Godot 3)
 
 Nightly Next-Gen repo: https://github.com/Rhythia/Rhythia (Godot 4)
 
-Compiled binaries might be here: https://github.com/Vintagemotors/Rhythia-Patched/releases
+Compiled (somewhat tested) binaries are here: https://github.com/Vintagemotors/Rhythia-Patched/releases
 
 # Credits 
   kermeet and Frezby helping with my stupid questions 
