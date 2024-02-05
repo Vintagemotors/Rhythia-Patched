@@ -28,6 +28,8 @@ After cloning the repository download the Discord Game SDK [Example project that
 
 # MacOS Quickstart 
 
+Theoretical minimum supported version is 10.8, currently I am unable to circumvent the minimum required version check so the minimum is 10.12 unless you run it in debug mode inside Godot.  
+
 After downloading/building for MacOS you have to make an exception to allow it to run: 
 
  Open Terminal.app (press Cmd + Space and enter Terminal).
